@@ -41,6 +41,9 @@ Traversal Order: [(x1, y1), (x2, y2), ...]
 
 ## 📤 Case 2 Output
 
+```Path not found at max depth 6 using IDDFS
+```
+
 ```Path not found at depth 6 using IDDFS
 ```
 
